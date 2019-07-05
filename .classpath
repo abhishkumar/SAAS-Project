@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/adharanendiran/Pictures/abhish/softwares/mysql/mysql-connector-java-8.0.16/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adharanendiran/Pictures/abhish/java_api/java_mail_api/javamail-1.4.7/mail.jar" sourcepath="C:/Users/adharanendiran/Pictures/abhish/java_api/java_mail_api/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/adharanendiran/Pictures/abhish/java_api/java_pdfBox/pdfbox-app-2.0.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
